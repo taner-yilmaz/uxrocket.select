@@ -1,3 +1,6 @@
+## Versiyon 3.6.0
+- YENİ: Ajax ile data çekilip dinamik select datası basılması özelliği eklendi. 
+
 ## Versiyon 3.5.14
 - FIX: Arama özelliği olan selectboxlarda, aranın öğenin selected olarak görünmeme sorunu düzeltildi.
 

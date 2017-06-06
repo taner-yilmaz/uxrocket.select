@@ -270,3 +270,20 @@ $radius: 4px;
         transform: rotate(360deg);
     }
 }
+
+.uxr-select-icon-holder {
+    position: absolute;
+    right: 5px;
+    top: 3px;
+
+    img {
+        width: 24px;
+    }
+
+    i {
+       position: relative;
+       top: 2px;
+
+    }
+
+}
